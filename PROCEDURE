@@ -1,0 +1,5 @@
+1) Open video camera.
+2) Detect hand.
+3) Separate index finger from detected hand.
+4) Moving mouse pointer using index finger movement.
+5) implement click action.
